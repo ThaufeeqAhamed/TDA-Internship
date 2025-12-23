@@ -1,0 +1,24 @@
+Test Case 1: High Score
+Input Name: Baskar
+Input Marks: 95
+Expected Output: Grade A, Message: Excellent work!
+
+Test Case 2: Average Score
+Input Name: Rahul
+Input Marks: 72
+Expected Output: Grade C, Message: Good effort!
+
+Test Case 3: Invalid Input (Too High)
+Input Name: TestUser
+Input Marks: 105
+Expected Output: Error message "Marks must be between 0 and 100", prompt asks again.
+
+Test Case 4: Invalid Input (Negative)
+Input Name: TestUser
+Input Marks: -5
+Expected Output: Error message "Marks must be between 0 and 100", prompt asks again.
+
+Test Case 5: Fail Score
+Input Name: Sam
+Input Marks: 40
+Expected Output: Grade F, Message: Unfortunately, you failed.
