@@ -1,5 +1,6 @@
 pandas
-seaborn
 matplotlib
-plotly
-nbformat
+numpy
+seaborn
+scipy
+stsatsmodels
